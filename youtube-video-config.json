@@ -1,0 +1,471 @@
+{
+  "download_settings": {
+    "output_directory": "downloads",
+    "video_quality": "best[height<=1080]/best",
+    "download_subtitles": false,
+    "download_info": false,
+    "skip_existing": true
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=kXHG7qW-DYs",
+      "description": "CG-52",
+      "category": "CG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lLTs7CSFWFM",
+      "description": "CG-53",
+      "category": "CG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AnBCx86yeyQ",
+      "description": "CG-54",
+      "category": "CG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tkyalCWGpMA",
+      "description": "CG-55",
+      "category": "CG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VGtwW4-f4IU",
+      "description": "CG-56",
+      "category": "CG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WJfHk_B3KOA",
+      "description": "CG-57",
+      "category": "CG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bkcql1DZ_iE",
+      "description": "CG-58",
+      "category": "CG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AfzAZTeIK5c",
+      "description": "CG-59",
+      "category": "CG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qvGax9lEAds",
+      "description": "CG-61",
+      "category": "CG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_9brgL8TKJU",
+      "description": "CG-62",
+      "category": "CG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NLWIO8zYcSI",
+      "description": "CG-64",
+      "category": "CG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SYRooes2amU",
+      "description": "CG-67",
+      "category": "CG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=u3AxU8m6Cuo",
+      "description": "CG-69",
+      "category": "CG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=G5e_4ThRTE4",
+      "description": "CG-70",
+      "category": "CG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AX14dcu_3X4",
+      "description": "CG-71",
+      "category": "CG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eplpOvdy7vc",
+      "description": "CG-72",
+      "category": "CG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lkDnkSw-GMs",
+      "description": "CG-73",
+      "category": "CG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nci0NZKfj04",
+      "description": "DDG-51",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Tie9ZGgyaLw",
+      "description": "DDG-53",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oCi6mYN2jV0",
+      "description": "DDG-54",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=j9gldj8CJwQ",
+      "description": "DDG-55",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2aoirgtYIMk",
+      "description": "DDG-56",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YNO0wvJVUI4",
+      "description": "DDG-57",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Xsp7tW6hvbw",
+      "description": "DDG-58",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tjQ0NYfYVNo",
+      "description": "DDG-59",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cq8lE689Q20",
+      "description": "DDG-60",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9matyq6OJO4",
+      "description": "DDG-61",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ayhrO1nhyXg",
+      "description": "DDG-62",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=F94OB7SXxNo&t=1s",
+      "description": "DDG-63",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=sBeKbZQZa44",
+      "description": "DDG-64",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Ixua0GuUX28",
+      "description": "DDG-67",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=u9Ncf-scp98",
+      "description": "DDG-69",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=n0W2j8k_qxo",
+      "description": "DDG-70",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=h_xcpFqzR44",
+      "description": "DDG-71",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MxVhPAEHl7U",
+      "description": "DDG-72",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VGzGe1UrO9I",
+      "description": "DDG-73",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4osazZPolaw",
+      "description": "DDG-74",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=F6KSxb6XP1g",
+      "description": "DDG-75",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PczrudnMFhg",
+      "description": "DDG-76",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dgs8WtXJ3yk",
+      "description": "DDG-77",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Pm7pK5cs9wQ",
+      "description": "DDG-78",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PczrudnMFhg",
+      "description": "DDG-79",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bvBMDJfeaWQ",
+      "description": "DDG-80",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fffKWD-wrKw",
+      "description": "DDG-81",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=USMtdWxYhNw",
+      "description": "DDG-82",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=XIBHkOoVWeo",
+      "description": "DDG-83",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=sDHRvXm9Mcs",
+      "description": "DDG-84",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iYS0UvBRbvk",
+      "description": "DDG-85",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=sg4oZ97tSsM",
+      "description": "DDG-86",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=EgFM9BmWf_w",
+      "description": "DDG-87",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lNC-3QZmKe8",
+      "description": "DDG-88",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kFebCBGxEKc",
+      "description": "DDG-89",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=T9-arWJ_a7s",
+      "description": "DDG-90",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OT0jics--BI",
+      "description": "DDG-91",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NqqK1F-UT8s",
+      "description": "DDG-92",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pif4Z1ttOes",
+      "description": "DDG-93",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0FkRuXweADk",
+      "description": "DDG-94",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zDbXGSx11sU",
+      "description": "DDG-95",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7LpM5U_nHio",
+      "description": "DDG-96",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YidiNZ9j2Xk",
+      "description": "DDG-97",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dVY4u0ZtAV0",
+      "description": "DDG-98",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0e9rxyEz6LM",
+      "description": "DDG-99",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=59UUvUBhWEM",
+      "description": "DDG-100",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NKCQ1KUNzwM",
+      "description": "DDG-101",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FyhAu4jLPBk",
+      "description": "DDG-102",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AH0_RwNf1ms",
+      "description": "DDG-103",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4V3EhM0EKMI",
+      "description": "DDG-104",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YKLnlRvZncc",
+      "description": "DDG-105",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pSJO1Akawfk",
+      "description": "DDG-106",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ll96pyshZ8E",
+      "description": "DDG-107",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dIOJys_IrXY",
+      "description": "DDG-108",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aYDaBOKMl1U",
+      "description": "DDG-110",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cY9UXNggQlk",
+      "description": "DDG-111",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tS7PB2hZ4Pk",
+      "description": "DDG-112",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3xsxdjbrmj4",
+      "description": "DDG-113",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=i4L1BoOFYUQ",
+      "description": "DDG-114",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LVPzE6gDF2g",
+      "description": "DDG-115",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ht1P0oaGS2A",
+      "description": "DDG-117",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=93Qv00-iGZA",
+      "description": "DDG-118",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8j5jhAQxhLw",
+      "description": "DDG-120",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bAWfOtwpTqA",
+      "description": "DDG-123",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9EFB1vsd4PA",
+      "description": "DDG-125",
+      "category": "DDG"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=l9eBZh60FSE",
+      "description": "LHA-6",
+      "category": "LHA"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tc8DVRcYa5s",
+      "description": "LHA-7",
+      "category": "LHA"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mzlv5HP8jeU",
+      "description": "LHA-8",
+      "category": "LHA"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-m9nArYZzKU",
+      "description": "LHD-1",
+      "category": "LHD"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=D-keXKSrmx0",
+      "description": "LHD-3",
+      "category": "LHD"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BoS4YBYjjgk",
+      "description": "LHD-4",
+      "category": "LHD"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=x9d3mWuSneI",
+      "description": "LHD-5",
+      "category": "LHD"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wf0piHe8zhs",
+      "description": "LHD-6",
+      "category": "LHD"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=i_WhjNgVtPs",
+      "description": "LHD-7",
+      "category": "LHD"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wY6iepJWSIA",
+      "description": "LHD-8",
+      "category": "LHD"
+    }
+  ]
+}

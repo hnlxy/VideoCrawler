@@ -1,0 +1,116 @@
+# 🚢 舰船视频下载清单
+
+- CVN-68 (尼米兹号)
+- CVN-69 (艾森豪威尔号)
+- CVN-70 (卡尔·文森号)
+- CVN-70-2 (卡尔文森号第二个视频)
+- CVN-71 (西奥多·罗斯福号)
+- CVN-72 (亚伯拉罕·林肯号)
+- CVN-73 (乔治·华盛顿号)
+- CVN-74 (斯坦尼斯号)
+- CVN-75 (杜鲁门号)
+- CVN-76 (里根号)
+- CVN-77 (布什号)
+- CVN-78 (福特号)
+
+---
+
+- CG-52
+- CG-53
+- CG-55
+- CG-56
+- CG-57
+- CG-58
+- CG-59
+- CG-61
+- CG-62
+- CG-64
+- CG-67
+- CG-69
+- CG-70
+- CG-71
+- CG-72
+- CG-73
+
+---
+
+- DDG-51
+- DDG-53
+- DDG-54
+- DDG-55
+- DDG-56
+- DDG-57
+- DDG-58
+- DDG-59
+- DDG-60
+- DDG-61
+- DDG-62
+- DDG-63
+- DDG-64
+- DDG-67
+- DDG-69
+- DDG-70
+- DDG-71
+- DDG-72
+- DDG-73
+- DDG-74
+- DDG-75
+- DDG-76
+- DDG-77
+- DDG-78
+- DDG-79
+- DDG-80
+- DDG-81
+- DDG-82
+- DDG-83
+- DDG-84
+- DDG-85
+- DDG-86
+- DDG-87
+- DDG-88
+- DDG-89
+- DDG-90
+- DDG-91
+- DDG-92
+- DDG-93
+- DDG-94
+- DDG-95
+- DDG-96
+- DDG-97
+- DDG-98
+- DDG-99
+- DDG-100
+- DDG-101
+- DDG-102
+- DDG-103
+- DDG-104
+- DDG-105
+- DDG-106
+- DDG-107
+- DDG-108
+- DDG-110
+- DDG-111
+- DDG-112
+- DDG-113
+- DDG-114
+- DDG-115
+- DDG-117
+- DDG-118
+- DDG-120
+- DDG-123
+- DDG-125
+
+---
+
+- LHA-6
+- LHA-7
+- LHA-8
+- LHD-1
+- LHD-3
+- LHD-4
+- LHD-5
+- LHD-6
+- LHD-7
+- LHD-8
+
+---

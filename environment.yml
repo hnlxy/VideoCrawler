@@ -1,0 +1,13 @@
+name: videocrawler
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - ffmpeg
+  - requests>=2.28.0
+  - tqdm
+  - pip
+  - pip:
+    - yt-dlp
+    
